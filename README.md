@@ -1,6 +1,11 @@
-### Hi there, I'm Arturo 👋
+### Hi, I'm Arturo 👋
 
-_Software Engineer at [Globant](https://www.globant.com/)_
+_I'm a Software Engineer at [Globant](https://www.globant.com/)_
+
+
+You can find me here:
+
+[![Linkedin](https://img.shields.io/badge/-Arturo%20Rivera-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arturoriveram/)](https://www.linkedin.com/in/arturoriveram/)
 
 
 <!---
