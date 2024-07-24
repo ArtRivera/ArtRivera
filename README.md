@@ -11,7 +11,7 @@ You can find me here:
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,javascript,typescript,flutter,dart" />
+    <img src="https://skillicons.dev/icons?i=git,javascript,typescript,flutter,dart,kotlin" />
   </a>
 </p>
 
